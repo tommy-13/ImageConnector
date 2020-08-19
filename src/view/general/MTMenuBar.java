@@ -37,7 +37,7 @@ public class MTMenuBar extends JMenuBar implements ActionListener {
 		createMenuLanguage();
 		
 		add(Box.createHorizontalGlue());
-		add(new JLabel(GlobalConstants.COPYRIGHT + " snailhaus  "));
+		add(new JLabel(GlobalConstants.COPYRIGHT + " tommy-13  "));
 		
 		
 		// register menu items for this action listener
